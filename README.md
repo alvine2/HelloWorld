@@ -20,5 +20,5 @@ The program was created to **demonstrate Python programming, using Visual Studio
 ## # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.w3schools.com/python/)
-* [Web Site Name](https://www.youtube.com/)
+* [W3 python school](https://www.w3schools.com/python/)
+* [Youtube](https://www.youtube.com/)
